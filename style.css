@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border: solid 1px;
+    background-color: chartreuse;
+    padding: 20px 30px;
+}
